@@ -1,0 +1,19 @@
+boddy{
+    background-color: white;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+label{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+span{
+    color: rgb(0, 0, 0);
+}
+
+input{
+    box-sizing: border-box;
+}

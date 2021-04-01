@@ -1,0 +1,20 @@
+div {
+    background-color: #ffffff;
+    min-height: 200px;
+    width: 40%;
+    padding-top: 20px;
+    padding-left: 15px;
+    text-align: justify;
+    align-items: justify;
+}
+
+button {
+    background-color: #000000;
+    color: white;
+    border-color: #000000;
+}
+
+#grade {
+    color: black;
+    font-weight: bold;
+}
